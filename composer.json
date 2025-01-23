@@ -1,11 +1,11 @@
 {
-    "name": "vendor/suryadev",
+    "name": "suryadev/suryadev",
     "description": "A description of your package",
     "type": "library",
     "version": "1.0.0",
     "autoload": {
         "psr-4": {
-            "Vendor\\Suryadev\\": "src/"
+            "Suryadev\\": "src/"
         }
     },
     "require": {}
