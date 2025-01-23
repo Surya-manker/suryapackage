@@ -8,5 +8,7 @@
             "Suryadev\\": "src/"
         }
     },
-    "require": {}
+    "require": {},
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
